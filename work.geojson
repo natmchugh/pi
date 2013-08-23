@@ -1,0 +1,12 @@
+var geojsonFeature = {
+    "type": "Feature",
+    "properties": {
+        "name": "Plusnet",
+        "amenity": "",
+        "popupContent": "This is where I work" 
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [53.382578699999996, -1.473388]
+    }
+};
